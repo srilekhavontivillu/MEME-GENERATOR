@@ -3,8 +3,9 @@ body {
   }
   header{
     height:100px;
+    width:auto;
     display:flex;
-    align-items: center;
+    align-items: left;
     background:#6441A5;
     background:-webkit-gradient(to right,#2a0845,#6441A5);
     background:linear-gradient(to right,#2a0845,#6441A5);
@@ -18,8 +19,8 @@ header>img{
 header>p{
     font-family: VT323,monospace;
     color:whitesmoke;
-    font-size:50px;
-    margin-left: 60px;
+    font-size:30px;
+    margin-left: 20px;
 }
   
   .meme {
