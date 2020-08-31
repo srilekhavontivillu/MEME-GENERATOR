@@ -1,6 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
 import App from './App';
 //import Conditionalrendering from './Conditionalrendering';
 //import Forms from './Forms';
